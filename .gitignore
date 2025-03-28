@@ -1,0 +1,6 @@
+AppData/ 
+anaconda3/ 
+*.log 
+*.dat 
+*.ini 
+__pycache__/ 
